@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MeraBills</string>
+    <string name="total_amount">Total Amount = ₹ </string>
+    <string name="total_amount_header">%1$s = ₹ </string>
+    <string name="payments">Payments</string>
+    <string name="payment_title">%1$s = Rs. </string>
+    <string name="no_payment_text">No payment added, please add any.</string>
+    <string name="add_payment">Add payment</string>
+    <string name="save">Save</string>
+    <string name="amount">Amount</string>
+    <string name="provider_hint">Provider (ICICI, Citibank etc.)</string>
+    <string name="transaction_ref_hint">Transaction reference</string>
+    <string name="payment_add_error">All bills are added, please remove any to add/update.</string>
+    <string name="payment_saved_message">Payment detail saved to file.</string>
+    <string name="payment_removed_message">Payment detail removed from list.</string>
+    <string name="payment_added_message">Payment detail added from list.</string>
+    <string name="error_message">Something went wrong.</string>
+</resources>
